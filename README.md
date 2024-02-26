@@ -27,6 +27,6 @@ gdown 1vOj9OpxeyozWzpPCtUY7fDVaBQwsPM9n
 ```
 
 <video width="640" height="480" controls>
-  <source src="./notebook/tracking_results/result_compressed.mp4" type="video/mp4">
+  <source src="notebook/tracking_results/result_compressed.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
